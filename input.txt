@@ -1,0 +1,4 @@
+3
+2
+King White 1 1
+King Black 2 2
